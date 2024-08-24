@@ -6,6 +6,20 @@
     --secondarycolor: #FF4655;
 }
 
+/* Target and hide the visual search button in Edge */
+img::-webkit-media-controls-panel {
+    display: none !important;
+}
+
+/* For other cases or to ensure coverage */
+img::-webkit-search-decoration,
+img::-webkit-search-cancel-button,
+img::-webkit-search-results-button,
+img::-webkit-search-results-decoration {
+    display: none;
+}
+
+
 * {
     margin: 0;
     padding: 0;
