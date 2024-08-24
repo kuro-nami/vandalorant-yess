@@ -67,7 +67,7 @@ nav a:hover {
 }
 
 #hero h1 {
-    font-family: 'Jersey 10', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 3.5rem;
     color: red;
     text-transform: uppercase;
@@ -102,7 +102,7 @@ section.gun {
 }
 
 .skin-heading-div {
-    font-family: 'Jersey 10', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: white;
     display: flex;
     justify-content: center;
@@ -129,7 +129,7 @@ section.gun video {
 .gun div span h1 {
     color: white;
     font-size: 3rem;
-    font-family: 'Jersey 10', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .gun div span p {
@@ -227,7 +227,7 @@ div.footer {
     .gun div span h1 {
         color: white;
         font-size: 2rem;
-        font-family: 'Jersey 10', sans-serif;
+        font-family: 'Poppins', sans-serif;
     }
 
     .gun div span p {
