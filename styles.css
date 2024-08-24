@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jersey+10&family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 :root {
     --bgcolor: #181818;
@@ -63,7 +64,7 @@ nav a:hover {
 }
 
 #hero h1 {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Jersey 10', sans-serif;
     font-size: 3.5rem;
     color: red;
     text-transform: uppercase;
@@ -98,7 +99,7 @@ section.gun {
 }
 
 .skin-heading-div {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Jersey 10', sans-serif;
     color: white;
     display: flex;
     justify-content: center;
@@ -125,7 +126,7 @@ section.gun video {
 .gun div span h1 {
     color: white;
     font-size: 3rem;
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Jersey 10', sans-serif;
 }
 
 .gun div span p {
@@ -223,7 +224,7 @@ div.footer {
     .gun div span h1 {
         color: white;
         font-size: 2rem;
-        font-family: 'Bebas Neue', sans-serif;
+        font-family: 'Jersey 10', sans-serif;
     }
 
     .gun div span p {
