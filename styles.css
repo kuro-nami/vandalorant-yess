@@ -27,6 +27,8 @@ body {
 }
 
 nav {
+    background-color: #181818;
+    border-bottom: 1px solid white;
     position: fixed;
     padding-top: 10px;
     padding-inline: 100px;
