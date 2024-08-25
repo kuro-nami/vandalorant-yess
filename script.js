@@ -1,3 +1,5 @@
+console.log('Welcome to Vandalorant!')
+
 document.addEventListener("DOMContentLoaded", function() {
     // Hide the loading screen
     var loadingScreen = document.getElementById("loading-screen");
