@@ -31,6 +31,6 @@ hiddenElements.forEach((el) => observer.observe(el));
 // Add event listener to all buttons with the class 'stock'
 document.querySelectorAll('.stock').forEach(button => {
     button.addEventListener('click', function() {
-        alert('The following skin is out of stock, please select another.');
+        alert('Sorry, the following skin is out of stock. Please select another.');
     });
 });
