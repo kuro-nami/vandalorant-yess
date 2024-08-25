@@ -256,6 +256,14 @@ section.gun video {
     color: rgb(3, 121, 19);
 }
 
+.prime-text {
+    color: gold;
+}
+
+.reaver-text {
+    color: violet;
+}
+
 div.footer {
     display: flex;
     justify-content: center;
