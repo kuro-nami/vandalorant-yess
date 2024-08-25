@@ -222,6 +222,9 @@ div.footer {
 
 nav {
     padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    border-bottom: 1px solid white;
     padding-inline: 100px;
     display: flex;
     align-items: center;
