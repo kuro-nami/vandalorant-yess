@@ -32,6 +32,6 @@ hiddenElements.forEach((el) => observer.observe(el));
 document.querySelectorAll('a.stock').forEach(link => {
     link.addEventListener('click', function(event) {
         event.preventDefault(); // Prevent the default behavior if needed
-        alert('Sorry, the following skin is out of stock. Please select another.');
+        alert('Sorry, the following skin is out of stock. Please select another. 😔');
     });
 });
